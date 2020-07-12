@@ -1,0 +1,42 @@
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.exe
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.deps.json
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.runtimeconfig.json
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.dll
+C:\Users\Usuario\source\repos\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.pdb
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\staticwebassets\TECBoxAPI.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\staticwebassets\TECBoxAPI.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.dll
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.pdb
+C:\Users\Usuario\source\repos\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.genruntimeconfig.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.exe
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.deps.json
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.runtimeconfig.json
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.runtimeconfig.dev.json
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.dll
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\TECBoxAPI.pdb
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.csprojAssemblyReference.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.AssemblyInfoInputs.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.AssemblyInfo.cs
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.RazorTargetAssemblyInfo.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\staticwebassets\TECBoxAPI.StaticWebAssets.Manifest.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\staticwebassets\TECBoxAPI.StaticWebAssets.xml
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.dll
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.pdb
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.genruntimeconfig.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aleja\Downloads\Telegram Desktop\TECBoxAPI\TECBoxAPI\obj\Debug\netcoreapp3.1\TECBoxAPI.csproj.CopyComplete
