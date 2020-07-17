@@ -1,14 +1,51 @@
 ﻿<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Home</title>
+    <style>
+        table,
+        th,
+        td {
+            padding: 10px;
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+            table-layout: fixed;
+            width: 100%
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+    </style>
+
+
 </head>
 
 <body>
     <h1>Welcome!</h1>
 
     <div>
-        This message is from the View...
-    </div>
+        <table>
+            <tr>
+                <th>HttpMethod</th>
+                <th>Requesting path</th>
+                <th>Request content</th>
+                <th>Response content</th>
+            </tr>
+
+            @model List<TECBoxAPI.Database.LogReg>
+            @foreach (var element in Model)
+            {
+        <tr>
+            <td>@Html.DisplayFor(m => element.HttpMethod)</td>
+            <td>@Html.DisplayFor(m => element.ReqPath)</td>
+            <td>@Html.DisplayFor(m => element.Request)</td>
+            <td>@Html.DisplayFor(m => element.Response)</td>
+        </tr>
+            }
+        </table>
+        </div>
 </body>
 
 </html> 

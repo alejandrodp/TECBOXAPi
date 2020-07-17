@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj": {}
+    "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj": {
+    "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
         "projectName": "TECBoxAPI",
-        "projectPath": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj",
+        "projectPath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
