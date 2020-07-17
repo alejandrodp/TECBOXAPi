@@ -64,7 +64,7 @@ namespace TECBoxAPI.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Products product)
         {
-            return Ok(new { result = "Prodcut with barcode " + product.barcode + " added." });
+            return Ok(new { result = "Prodcut with barcode " + product.barcode.ToString() + " added." });
         }
 
         // PUT api/<ProductsController>/5

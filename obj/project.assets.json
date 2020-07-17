@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj",
       "projectName": "TECBoxAPI",
-      "projectPath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
+      "projectPath": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\obj\\",
+      "outputPath": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",

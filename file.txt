@@ -32,3 +32,41 @@ https localhost:44354/api/logging
 
 https localhost:44354/api/logging  
 
+https localhost:44354/  
+
+https localhost:44354/  
+
+https localhost:44354/weatherforecast  
+
+https localhost:44354/Products  {"barcode":12343,"Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":4.5,"Descuento":3.4}
+
+https localhost:44354/Products  {"barcode":12343,"Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":45,"Descuento":34}
+
+https localhost:44354/Products  {"barcode":12343,"Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":45,"Descuento":34}
+
+https localhost:44354/  
+
+https localhost:44354/  
+
+https localhost:44354/Products  {"barcode":12343,"Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":45,"Descuento":34}
+
+https localhost:44354/  
+
+https localhost:44354/  
+
+https localhost:44354/Products  {"barcode":"\"12343","Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":45,"Descuento":34}
+
+https localhost:44354/Products  {"barcode":"12343","Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":45,"Descuento":34}
+
+https localhost:44354/Products  {"barcode":12343,"Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":4.5,"Descuento":3.4}
+
+https localhost:44354/  
+
+https localhost:44354/  
+
+https localhost:44354/Products  {"barcode":12343,"Nombre":"shit","Desc":"Cosas","Cant":543,"Precio":5732089,"Impuesto":4.5,"Descuento":3.4}
+
+https localhost:44354/  
+
+https localhost:44354/  
+

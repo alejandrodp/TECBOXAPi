@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMJftLcRfFwz3R+SCMl8hEn6JTcBCVmprIRE4hDLREQbjuhRoB6pVGn5mW3pdrUUuS1LhmE4RhTtMour6qqe0Q==",
+  "dgSpecHash": "ZmkXa021nRuerv+S0R/VXFecnfy8fVbp7RdKLy8dH3Ebk9mcMrDnRya0S/bDsMpHOFXrXvkbD6+XHIsxzPE88Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
+  "projectFilePath": "C:\\Users\\aleja\\Pictures\\TECBOXAPi\\TECBoxAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
