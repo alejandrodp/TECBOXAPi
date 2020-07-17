@@ -47,13 +47,13 @@ namespace TECBoxAPI.Controllers
         {
             var array = Enumerable.Range(0, names.Length - 1).Select(index => new Products
             {
-                nombre = names[index],
-                desc = description[index],
+                Nombre = names[index],
+                Desc = description[index],
                 barcode = barcodes[index],
-                descuento = discounts[index],
-                precio = prices[index],
-                cant = quantities[index],
-                impuesto = taxes[index]
+                Descuento = discounts[index],
+                Precio = prices[index],
+                Cant = quantities[index],
+                Impuesto = taxes[index]
             })
             .ToArray();
 

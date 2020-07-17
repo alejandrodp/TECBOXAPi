@@ -8,11 +8,11 @@ namespace TECBoxAPI.Models
     public class Products
     {
         public int barcode { get; set; }
-        public string nombre { get; set; }
-        public string desc { get; set; }
-        public int cant { get; set; }
-        public int precio { get; set; }
-        public double impuesto { get; set; }
-        public double descuento { get; set; }
+        public string Nombre { get; set; }
+        public string Desc { get; set; }
+        public int Cant { get; set; }
+        public int Precio { get; set; }
+        public double Impuesto { get; set; }
+        public double Descuento { get; set; }
     }
 }
