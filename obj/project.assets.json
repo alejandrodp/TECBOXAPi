@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\Downloads\\Telegram Desktop\\TECBoxAPI\\TECBoxAPI\\TECBoxAPI.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
       "projectName": "TECBoxAPI",
-      "projectPath": "C:\\Users\\aleja\\Downloads\\Telegram Desktop\\TECBoxAPI\\TECBoxAPI\\TECBoxAPI.csproj",
+      "projectPath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\TECBoxAPI.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\Downloads\\Telegram Desktop\\TECBoxAPI\\TECBoxAPI\\obj\\",
+      "outputPath": "C:\\Users\\aleja\\source\\repos\\TECBoxAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
