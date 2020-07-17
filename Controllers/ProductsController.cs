@@ -75,7 +75,7 @@ namespace TECBoxAPI.Controllers
         }
 
         // DELETE api/<ProductsController>/5
-        [HttpDelete("{id}")]
+        [HttpDelete]
         public IActionResult Delete(int id)
         {
             return Ok(new { result = "Product with barcode " + id + " deleted." });
