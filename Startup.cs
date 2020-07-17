@@ -25,6 +25,9 @@ namespace TECBoxAPI
 
             //+services.AddScoped<LogDatabase>();
 
+            services.AddCors();
+
+
             services.AddMvc();
             services.AddControllers();
         }
@@ -38,6 +41,11 @@ namespace TECBoxAPI
             }
 
             //app.UseMiddleware<RequestResponseLoggingMiddleware>();
+
+            app.UseCors(builder => builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
 
             app.UseHttpsRedirection();
 
